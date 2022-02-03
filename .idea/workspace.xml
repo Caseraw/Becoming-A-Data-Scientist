@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b1486a8-907e-4ee4-ab1d-9f6fc7bc235e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-01-introduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-02-Variables-and-Functions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-03-Numpy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-04-Loops-vs-Vectorization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-05-Matplotlib.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-06-Linear-Algebra.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-07-Histogram.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-08-Randomness.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-09-Statistics.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-10-Random-Walks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-12-Gradient-Descent.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-13-Linear-Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-14-Linear-Regression-II.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-15-Overfitting.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-16-Classification-I.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-17-Classification-II-Binary.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-18-Classification-III-Multiclass.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-19-Stochastic-Gradient-Descent.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-20-K-Nearest-Neighbor.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-21-Principal-Component-Analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-22-Neural-Network-I.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-23-Neural-Network-II.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Lecture-24-Advanced-Tricks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/math10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/neural_net.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/neural_net_3l.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/neuron-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/weights.npz" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine Learning/Natural Language Processing/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
