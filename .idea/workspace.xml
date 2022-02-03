@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b1486a8-907e-4ee4-ab1d-9f6fc7bc235e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/6. Applications Fun/Encryption and Key_Exchange.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python/6. Applications Fun/Encryption and Key_Exchange.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/.github/ISSUE_TEMPLATE/1---troubleshoot-installation-issues.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/.github/ISSUE_TEMPLATE/2---bug-report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning/Introduction to ML Notebooks/Hands On Data Analysis with Pandas 2e/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
